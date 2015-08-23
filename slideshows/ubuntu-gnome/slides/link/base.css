@@ -197,13 +197,13 @@ Inner space is 224px wide.
 }
 
 .main.big > .text {
-	top:25px;
-	width:680px;
+	top:55px;
+	width:320px;
 }
 
 .main.big > .text > div {
 	background:none;
-	font-size:16px;
+	font-size:14px;
 	line-height:1.2em;
 	color:#F7F6F6;
 	/*text-shadow:1px 1px 1px #333333;*/
